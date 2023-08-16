@@ -1,4 +1,4 @@
-### Valentin Woehrel 🙋‍♂️
+<h2 align="center">Valentin Woehrel 🙋‍♂️</h2>
 
 - 📈 I'm currently working in my auto business.
 - 🤝 I'm available for freelancing.
