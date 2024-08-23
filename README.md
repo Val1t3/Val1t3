@@ -1,7 +1,6 @@
-<h2 align="center">Valentin Woehrel 🙋‍♂️</h2>
+### Hey, I'm Valentin Woehrel 👋
 
-- 🤝 Available for freelancing.
-- 👨‍💻 Currently working on WebDev(React/Next - Laravel/Node).
-- 🌱 Currently learning on AI.
-- 📫 To reach me **valwoehrel@gmail.com**.
+- 🤝 Available as a freelance web developer(React/Next-Laravel/Node).
+- 🌱 Currently learning about Machine Learning with Pytorch.
+- 📫 To reach me valwoehrel@gmail.com.
 - 🚀 Connect with me on [Linkedin](https://www.linkedin.com/in/valentin-woehrel-207564228/).
