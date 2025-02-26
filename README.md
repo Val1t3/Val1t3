@@ -1,4 +1,4 @@
-### Hey, I'm Valentin Woehrel 👋
+### Hey, I'm Valentin 👋
 
 - 🤝 Available as a freelance web developer(React/Next-Laravel/Node).
 - 🌱 Currently learning about Machine Learning with Pytorch.
