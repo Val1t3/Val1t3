@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
 </div>
 
----
-
 ### 🙋‍♂️ About me:
 
 - 📕 Student  at Epitech - Computer Science.
