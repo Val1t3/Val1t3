@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PHP-%23777BB4.svg?&logo=php&logoColor=white" />
 </div>
 
 ### 🙋‍♂️ About me:
